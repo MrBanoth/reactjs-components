@@ -1,0 +1,6 @@
+function Email(email){
+  var RegularExpression = /^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}$/;
+  return RegularExpression.test(email);
+}
+
+export default Email
