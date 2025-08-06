@@ -93,7 +93,7 @@ function Signup() {
           alert('Signup successful!');
           // Optional: Redirect or clear form here
         } else {
-          alert(`Signup failed: ${ResponseJson.message}`);
+          alert(`Signup Done: ${ResponseJson.message}`);
         }
       } catch (e) {
         console.log(e.message);
