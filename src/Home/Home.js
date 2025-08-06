@@ -19,6 +19,7 @@ function Home() {
         <div className="row justify-content-center mt-5">
           {/* Left side - Heading */}
           <div className="col-md-6 text-center mt-5">
+            
             <h1 className="text-info mt-5">
               Learn Job Oriented Programming with ReactJS!
             </h1>

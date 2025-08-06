@@ -12,7 +12,7 @@ function Navbar() {
 
   return (
     
-    <ul className="list-unstyled d-flex gap-4 mt-5  text-white ">
+    <ul className="list-unstyled d-flex gap-4 mt-5 justify-content-center text-white ">
 
       <li className="">Home</li>
       <li className="">About</li>
